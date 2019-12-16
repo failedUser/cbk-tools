@@ -1,0 +1,83 @@
+/**
+ * A simple, efficent mobile slider solution
+ * @file iSlider.js
+ * @author BE-FE Team
+ *    qbaty qbaty.qi@gmail.com
+ *    xieyu33333 xieyu33333@gmail.com
+ *    shinate shine.wangrs@gmail.com
+ *
+ * @LICENSE https://github.com/BE-FE/iSlider/blob/master/LICENSE
+ */
+
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/** @license React v16.12.0
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.12.0
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v0.18.0
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+/**
+ * @author  Milos Janda
+ * @licence MIT
+ */
+
+/*!
+	 * The buffer module from node.js, for the browser.
+	 *
+	 * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+	 * @license  MIT
+	 */
+
+/*! https://mths.be/fromcodepoint v0.2.1 by @mathias */
+
+/*! https://mths.be/regenerate v1.3.2 by @mathias | MIT license */
+
+/*! https://mths.be/jsesc v1.3.0 by @mathias */
+
+/*!
+	 * RegJSGen
+	 * Copyright 2014 Benjamin Tan <https://d10.github.io/>
+	 * Available under MIT license <http://d10.mit-license.org/>
+	 */
+
+/*! Based on https://mths.be/fromcodepoint v0.2.0 by @mathias */
